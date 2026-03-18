@@ -9,6 +9,7 @@ numpy = "*"
 python-dotenv = "*"
 sounddevice = "*"
 scipy = "*"
+mutagen = "*"
 
 [dev-packages]
 

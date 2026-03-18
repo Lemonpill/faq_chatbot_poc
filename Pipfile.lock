@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "19933405c4a981b0a52d89b45a67c238ae825213f76eeda3902a3100f81096fc"
+            "sha256": "17eecec54b43ec11ad7e7bbd18184ab7a201e0c2e206f4ed0d7bf517464eda3c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -285,6 +285,15 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==0.13.0"
+        },
+        "mutagen": {
+            "hashes": [
+                "sha256:719fadef0a978c31b4cf3c956261b3c58b6948b32023078a2117b1de09f0fc99",
+                "sha256:edd96f50c5907a9539d8e5bba7245f62c9f520aef333d13392a79a4f70aca719"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==1.47.0"
         },
         "numpy": {
             "hashes": [
